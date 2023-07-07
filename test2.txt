@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 3003-8861
+
+ Directory of C:\Users\pradha\Desktop\MyProject
+
+07/07/2023  03:07 PM    <DIR>          .
+07/07/2023  03:07 PM    <DIR>          ..
+07/07/2023  02:52 PM               357 test1.txt
+07/07/2023  03:07 PM                 0 test2.txt
+               2 File(s)            357 bytes
+               2 Dir(s)  46,879,522,816 bytes free
